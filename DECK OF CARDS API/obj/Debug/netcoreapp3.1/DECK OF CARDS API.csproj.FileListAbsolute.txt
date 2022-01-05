@@ -1,0 +1,112 @@
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\DECK OF CARDS API.exe
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\DECK OF CARDS API.deps.json
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\DECK OF CARDS API.runtimeconfig.json
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\DECK OF CARDS API.runtimeconfig.dev.json
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\DECK OF CARDS API.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\DECK OF CARDS API.pdb
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\DECK OF CARDS API.Views.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\DECK OF CARDS API.Views.pdb
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\netcoreapp3.1\DECK OF CARDS API.csproj.AssemblyReference.cache
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\netcoreapp3.1\DECK OF CARDS API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\netcoreapp3.1\DECK OF CARDS API.AssemblyInfoInputs.cache
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\netcoreapp3.1\DECK OF CARDS API.AssemblyInfo.cs
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\netcoreapp3.1\DECK OF CARDS API.csproj.CoreCompileInputs.cache
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\netcoreapp3.1\DECK OF CARDS API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\netcoreapp3.1\DECK OF CARDS API.RazorAssemblyInfo.cache
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\netcoreapp3.1\DECK OF CARDS API.RazorAssemblyInfo.cs
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\netcoreapp3.1\staticwebassets\DECK OF CARDS API.StaticWebAssets.Manifest.cache
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\netcoreapp3.1\staticwebassets\DECK OF CARDS API.StaticWebAssets.xml
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\netcoreapp3.1\scopedcss\bundle\DECK OF CARDS API.styles.css
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\netcoreapp3.1\DECK OF CARDS API.TagHelpers.input.cache
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\netcoreapp3.1\DECK OF CARDS API.TagHelpers.output.cache
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\netcoreapp3.1\DECK OF CARDS API.RazorCoreGenerate.cache
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\netcoreapp3.1\DECK OF CARDS API.RazorTargetAssemblyInfo.cache
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\netcoreapp3.1\DECK OF CARDS API.RazorTargetAssemblyInfo.cs
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\netcoreapp3.1\DECK OF CARDS API.Views.pdb
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\netcoreapp3.1\DECK OF CARDS API.csproj.CopyComplete
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\netcoreapp3.1\DECK OF CARDS API.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\netcoreapp3.1\DECK OF CARDS API.pdb
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\netcoreapp3.1\DECK OF CARDS API.genruntimeconfig.cache
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RLynch\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Drawed.cshtml.g.cs

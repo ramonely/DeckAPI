@@ -1,0 +1,17 @@
+﻿@model ViewModel
+
+@{
+    ViewData["Title"] = "Drawed";
+}
+
+<h1>Drawed</h1>
+
+@foreach (var item in @Model.AllCardsDrawed.cards)
+{
+    <p>@item.value OF @item.suit</p>
+    <img src="@item.image" />
+}
+
+
+
+

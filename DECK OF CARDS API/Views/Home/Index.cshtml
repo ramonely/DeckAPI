@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model ViewModel
+
+<p>Here is your deck ID: @Model.AllCards.deck_id</p>
+
+<p>How many cards do you want to draw?</p>
+
+<form asp-action="Drawed" asp-route-deck_id="@Model.AllCards.deck_id">
+    <input type="number" name="draw" />
+    <input type="submit" />
+</form>
+
+
